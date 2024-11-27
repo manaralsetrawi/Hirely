@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C26245B2CF7282D0045FDDA /* ManarStory.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C26245A2CF7282D0045FDDA /* ManarStory.storyboard */; };
 		2CB182AB2CF71FD20076F796 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB182AA2CF71FD20076F796 /* AppDelegate.swift */; };
 		2CB182AD2CF71FD20076F796 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB182AC2CF71FD20076F796 /* SceneDelegate.swift */; };
 		2CB182AF2CF71FD20076F796 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB182AE2CF71FD20076F796 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C26245A2CF7282D0045FDDA /* ManarStory.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ManarStory.storyboard; sourceTree = "<group>"; };
 		2CB182A72CF71FD20076F796 /* Hirely.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hirely.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CB182AA2CF71FD20076F796 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2CB182AC2CF71FD20076F796 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				2CB182AC2CF71FD20076F796 /* SceneDelegate.swift */,
 				2CB182AE2CF71FD20076F796 /* ViewController.swift */,
 				2CB182B02CF71FD20076F796 /* Main.storyboard */,
+				2C26245A2CF7282D0045FDDA /* ManarStory.storyboard */,
 				2CB182B32CF71FD30076F796 /* Assets.xcassets */,
 				2CB182B52CF71FD30076F796 /* LaunchScreen.storyboard */,
 				2CB182B82CF71FD30076F796 /* Info.plist */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C26245B2CF7282D0045FDDA /* ManarStory.storyboard in Resources */,
 				2CB182B42CF71FD30076F796 /* Assets.xcassets in Resources */,
 				2CB182B72CF71FD30076F796 /* Base in Resources */,
 				2CB182B22CF71FD20076F796 /* Base in Resources */,
