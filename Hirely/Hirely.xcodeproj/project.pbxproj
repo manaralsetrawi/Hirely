@@ -14,6 +14,7 @@
 		2CB182B22CF71FD20076F796 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 2CB182B12CF71FD20076F796 /* Base */; };
 		2CB182B42CF71FD30076F796 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CB182B32CF71FD30076F796 /* Assets.xcassets */; };
 		2CB182B72CF71FD30076F796 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 2CB182B62CF71FD30076F796 /* Base */; };
+		C37989742CF729AD004DCF10 /* KhadijaStory.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C37989732CF729AD004DCF10 /* KhadijaStory.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2CB182B32CF71FD30076F796 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CB182B62CF71FD30076F796 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CB182B82CF71FD30076F796 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C37989732CF729AD004DCF10 /* KhadijaStory.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = KhadijaStory.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				2CB182B32CF71FD30076F796 /* Assets.xcassets */,
 				2CB182B52CF71FD30076F796 /* LaunchScreen.storyboard */,
 				2CB182B82CF71FD30076F796 /* Info.plist */,
+				C37989732CF729AD004DCF10 /* KhadijaStory.storyboard */,
 			);
 			path = Hirely;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C37989742CF729AD004DCF10 /* KhadijaStory.storyboard in Resources */,
 				2C26245B2CF7282D0045FDDA /* ManarStory.storyboard in Resources */,
 				2CB182B42CF71FD30076F796 /* Assets.xcassets in Resources */,
 				2CB182B72CF71FD30076F796 /* Base in Resources */,
