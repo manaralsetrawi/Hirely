@@ -16,6 +16,8 @@
 		2CB182B72CF71FD30076F796 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 2CB182B62CF71FD30076F796 /* Base */; };
 		C37989742CF729AD004DCF10 /* KhadijaStory.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C37989732CF729AD004DCF10 /* KhadijaStory.storyboard */; };
 		D03BD3F72CF73C860072F85C /* Areej.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D03BD3F62CF73C860072F85C /* Areej.storyboard */; };
+		D03BD3FF2CF74F7F0072F85C /* ResourceManagmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03BD3FE2CF74F7F0072F85C /* ResourceManagmentViewController.swift */; };
+		D03BD4012CF767F40072F85C /* ManageRViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03BD4002CF767F40072F85C /* ManageRViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		2CB182B82CF71FD30076F796 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C37989732CF729AD004DCF10 /* KhadijaStory.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = KhadijaStory.storyboard; sourceTree = "<group>"; };
 		D03BD3F62CF73C860072F85C /* Areej.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Areej.storyboard; sourceTree = "<group>"; };
+		D03BD3FE2CF74F7F0072F85C /* ResourceManagmentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourceManagmentViewController.swift; sourceTree = "<group>"; };
+		D03BD4002CF767F40072F85C /* ManageRViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ManageRViewController.swift; path = ../../../ManageRViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,34 +66,20 @@
 		2CB182A92CF71FD20076F796 /* Hirely */ = {
 			isa = PBXGroup;
 			children = (
-				D03BD3F82CF745940072F85C /* view */,
 				2CB182AA2CF71FD20076F796 /* AppDelegate.swift */,
 				2CB182AC2CF71FD20076F796 /* SceneDelegate.swift */,
 				2CB182AE2CF71FD20076F796 /* ViewController.swift */,
 				2CB182B02CF71FD20076F796 /* Main.storyboard */,
 				D03BD3F62CF73C860072F85C /* Areej.storyboard */,
-				D03BD3F92CF748100072F85C /* AreejViews */,
+				D03BD4002CF767F40072F85C /* ManageRViewController.swift */,
 				2C26245A2CF7282D0045FDDA /* ManarStory.storyboard */,
 				2CB182B32CF71FD30076F796 /* Assets.xcassets */,
 				2CB182B52CF71FD30076F796 /* LaunchScreen.storyboard */,
 				2CB182B82CF71FD30076F796 /* Info.plist */,
 				C37989732CF729AD004DCF10 /* KhadijaStory.storyboard */,
+				D03BD3FE2CF74F7F0072F85C /* ResourceManagmentViewController.swift */,
 			);
 			path = Hirely;
-			sourceTree = "<group>";
-		};
-		D03BD3F82CF745940072F85C /* view */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = view;
-			sourceTree = "<group>";
-		};
-		D03BD3F92CF748100072F85C /* AreejViews */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = AreejViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -169,6 +159,8 @@
 				2CB182AF2CF71FD20076F796 /* ViewController.swift in Sources */,
 				2CB182AB2CF71FD20076F796 /* AppDelegate.swift in Sources */,
 				2CB182AD2CF71FD20076F796 /* SceneDelegate.swift in Sources */,
+				D03BD4012CF767F40072F85C /* ManageRViewController.swift in Sources */,
+				D03BD3FF2CF74F7F0072F85C /* ResourceManagmentViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
